@@ -1,0 +1,14 @@
+progressbar2
+gdown
+gitpython
+
+hickle
+tensorboard
+numpy
+
+
+PySide6
+Cython
+scipy
+
+
