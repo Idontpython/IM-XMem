@@ -40,9 +40,9 @@ pip install mamba_ssm-*.whl
 
 To run the inference or training, you need to download the required datasets and weights:
 
-**1. Weights:** Download the pre-trained weights from [Google Drive Link / Baidu Netdisk Link] and place them in the `code/saves/` directory.
+**1. Weights:** Download the pre-trained weights from [https://drive.google.com/file/d/1G-ufRBjs-M8if4AAhx7IDypusfqHA7-c/view?usp=drive_link] and place them in the `code/saves/` directory.
 
-**2. Dataset:** Download the larvae ventricle dataset from [Link] and place it in the `MedakaData/` directory.
+**2. Data:** Download the larvae ventricle data from [https://drive.google.com/file/d/1akvvoqX2r7v46qszK6nhtdVGPAsehuj1/view?usp=drive_link] and place it in the `Data/` directory.
 
 
 The folder structure should look exactly like this before running the code:
