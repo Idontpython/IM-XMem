@@ -4,6 +4,14 @@ This repository contains the official PyTorch implementation of **IM-XMem**.
 
 Our framework introduces Mamba-based modules into the XMem architecture to achieve highly accurate, robust, and interactive segmentation of **larvae ventricles** in microscopy videos.This demonstrates strong generalization performance on challenging biological objects.
 
+## 🎥 Interactive Demonstration
+
+Watch IM-XMem in action, performing robust segmentation on a moving larvae ventricle:
+
+
+Uploading redpandacompress_test_demo.mp4…
+
+
 ## ⚙️ Environment Setup
 
 **1. Clone the repository:**
