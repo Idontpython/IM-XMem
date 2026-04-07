@@ -8,8 +8,7 @@ Our framework introduces Mamba-based modules into the XMem architecture to achie
 
 Watch IM-XMem in action, performing robust segmentation on a moving larvae ventricle:
 
-
-Uploading redpandacompress_test_demo.mp4…
+https://github.com/user-attachments/assets/d4040cdb-9809-4bb6-84b2-c6b7004baaa3
 
 
 ## ⚙️ Environment Setup
