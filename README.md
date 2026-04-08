@@ -1,8 +1,8 @@
-# IM-XMem: Interactive Larvae Ventricle Segmentation Network
+# IM-XMem: Interactive Larval fish Ventricle Segmentation Network
 
 This repository contains the official PyTorch implementation of **IM-XMem**. 
 
-Our framework introduces Mamba-based modules into the XMem architecture to achieve highly accurate, robust, and interactive segmentation of **larvae ventricles** in microscopy videos.This demonstrates strong generalization performance on challenging biological objects.
+Our framework introduces Mamba-based modules into the XMem architecture to achieve highly accurate, robust, and interactive segmentation of **Larval fish ventricles** in microscopy videos.This demonstrates strong generalization performance on challenging biological objects.
 
 ## 🎥 Interactive Demonstration
 
